@@ -1,0 +1,36 @@
+body{
+    font-family: 'Satisfy', cursive;
+    background: #00ffaa;
+}
+.header_div{
+    background: rgb(250, 110, 255);
+    color: rgb(0, 0, 0);
+}
+ .header_div p{
+     font-family: 'Times New Roman', Times, serif;
+     color: rgb(0, 0, 0);
+     letter-spacing: 2px;
+     font-size: 14px;
+     font-weight: bolder;
+ }  
+ .main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    font-size: 15px;
+    letter-spacing: 3px;
+    background: seagreen;
+ } 
+ .footer_class{
+     font-size: 12px;
+     position: fixed;
+     bottom:0;
+     text-align: center;
+     font-family: monospace;
+     width: 100%;
+     font-weight: bolder;
+     color: teal;
+     letter-spacing: 2px;
+ }
+
